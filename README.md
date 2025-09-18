@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.svg" alt="Banner Luciano Carrasco" />
+</p>
+
 # 👋 ¡Hola! Soy Luciano Carrasco
 
 🧑‍💻 **Frontend Developer** con +3.5 años de experiencia  
