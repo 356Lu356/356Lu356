@@ -1,44 +1,63 @@
 # 👋 ¡Hola! Soy Luciano Carrasco
 
-🧑‍💻 Frontend Developer viviendo en España 🇪🇸  
+🧑‍💻 **Frontend Developer** con +3.5 años de experiencia  
+🇪🇸 Viviendo en España | 🌍 Abierto a oportunidades globales  
 
-- 🌐 [Mi portfolio](https://lucianocarrasco.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucianocarrasco/)
-
----
-
-### 🛠️ Mi stack actual
-
-- **Lenguajes:** TypeScript, JavaScript, Node.js, Python  
-- **Frontend:** Angular, React.js, Next.js, Zustand, Redux, RxJS, TailwindCSS, SCSS, Shadcn  
-- **Backend & APIs:** Node.js, Express, FastAPI, PostgreSQL, MongoDB  
-- **Testing:** Jest, React Testing Library  
-- **DevOps:** Docker, GitHub Actions, Google Cloud  
-- **CMS:** WordPress, Payload, Elementor, Gutenberg  
-- **Arquitectura:** Hexagonal, MVVM, Microfrontends, DDD, TDD  
-- **Otros:** Sentry, Swagger, Storybook, Jira, Confluence
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://lucianocarrasco.netlify.app/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lucianocarrasco/)  
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Stack principal  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=356Lu356&theme=dracula&hide_border=true&cache_seconds=86400)](https://git.io/streak-stats)
-
-[![Luciano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=356Lu356&show_icons=true&theme=dracula&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=356Lu356&layout=compact&theme=dracula&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
-### 💼 Un poco sobre mí
-
-Llevo más de 3 años trabajando como frontend en proyectos de alto impacto, desde plataformas de alquiler de coches hasta integraciones con IA para accesibilidad audiovisual.  
-Trabajo con foco en rendimiento, accesibilidad y escalabilidad. Siempre metiendo principios SOLID y arquitectura modular donde haga falta.
-
-> 🎤 "La arquitectura no es solo para edificios — también para que tu app no se caiga con un scroll mal hecho."
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-> Si llegaste hasta acá, gracias.  
-> Si querés colaborar, charlar de arquitectura o invitarme un café virtual, estoy abierto a todo lo que sume 🍻
+## 📈 GitHub Stats  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=356Lu356&theme=dracula&hide_border=true&cache_seconds=86400)](https://git.io/streak-stats)  
+
+[![Luciano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=356Lu356&show_icons=true&theme=dracula&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=356Lu356&layout=compact&theme=dracula&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## 🚀 Experiencia Destacada  
+
+- ⚡ Optimización de rendimiento con SSR, SSG e ISR en **Next.js**.  
+- ♿ Integraciones de **IA para accesibilidad** (auto-descripción de vídeos con Gemini).  
+- 🛒 Desarrollo de features clave en e-commerce: carritos, pagos, notificaciones.  
+- 🌍 **Internacionalización (i18n)** para plataformas multi-mercado en Europa.  
+- 🏗️ Uso de **arquitectura hexagonal, microfrontends y principios SOLID** para escalar proyectos.  
+
+**Clientes/Proyectos:** Rentbuzz, Diverger Thinking, Grupo XtraAuto, Multiglobal.  
+
+---
+
+## 📌 Proyectos destacados  
+
+🔗 [**Portfolio Personal**](https://lucianocarrasco.netlify.app/) – Muestra de mis trabajos y experimentos.  
+🔗 [**Rentbuzz (demo)**](#) – Plataforma de alquiler de coches con Next.js 15, Zustand e i18n.  
+🔗 [**E-commerce Template**](#) – Carrito, filtros y gestión de pedidos con React + Redux.  
+
+---
+
+## 💬 Sobre mí  
+
+Soy un desarrollador frontend apasionado por crear interfaces **rápidas, accesibles y escalables**.  
+Trabajo con foco en rendimiento, accesibilidad y buenas prácticas de arquitectura.  
+
+> 🎤 *"La arquitectura no es solo para edificios — también para que tu app no se caiga con un scroll mal hecho."*  
+
+---
+
+✨ Si querés charlar sobre arquitectura, accesibilidad o invitarme un café virtual → ¡escribime! 🍻
