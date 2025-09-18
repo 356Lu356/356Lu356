@@ -22,14 +22,12 @@
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=356Lu356&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=356Lu356&theme=dracula&hide_border=true&cache_seconds=86400)](https://git.io/streak-stats)
 
-<!-- Podés sumar más stats acá si querés: -->
-<!--
-[![Luciano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=356Lu356&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Luciano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=356Lu356&show_icons=true&theme=dracula&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=356Lu356&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=356Lu356&layout=compact&theme=dracula&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
