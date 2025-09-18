@@ -5,7 +5,7 @@
 - 🌐 [Mi portfolio](https://lucianocarrasco.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucianocarrasco/)
 
---- 
+---
 
 ### 🛠️ Mi stack actual
 
@@ -13,17 +13,25 @@
 - **Frontend:** Angular, React.js, Next.js, Zustand, Redux, RxJS, TailwindCSS, SCSS, Shadcn  
 - **Backend & APIs:** Node.js, Express, FastAPI, PostgreSQL, MongoDB  
 - **Testing:** Jest, React Testing Library  
-- **DevOps:** Docker, GitHub Actions, Google Cloud.   
+- **DevOps:** Docker, GitHub Actions, Google Cloud  
 - **CMS:** WordPress, Payload, Elementor, Gutenberg  
 - **Arquitectura:** Hexagonal, MVVM, Microfrontends, DDD, TDD  
 - **Otros:** Sentry, Swagger, Storybook, Jira, Confluence
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=356Lu356&theme=dracula)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=356Lu356&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=356Lu356&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Podés sumar más stats acá si querés: -->
+<!--
+[![Luciano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=356Lu356&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=356Lu356&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+---
 
 ### 💼 Un poco sobre mí
 
@@ -32,9 +40,7 @@ Trabajo con foco en rendimiento, accesibilidad y escalabilidad. Siempre metiendo
 
 > 🎤 "La arquitectura no es solo para edificios — también para que tu app no se caiga con un scroll mal hecho."
 
-
-
-
+---
 
 > Si llegaste hasta acá, gracias.  
 > Si querés colaborar, charlar de arquitectura o invitarme un café virtual, estoy abierto a todo lo que sume 🍻
