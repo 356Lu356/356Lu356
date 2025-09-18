@@ -57,8 +57,8 @@
 Soy un desarrollador frontend apasionado por crear interfaces **rápidas, accesibles y escalables**.  
 Trabajo con foco en rendimiento, accesibilidad y buenas prácticas de arquitectura.  
 
-> 🎤 *"La arquitectura no es solo para edificios — también para que tu app no se caiga con un scroll mal hecho."*  
+> 🎤 *"En los momentos de crisis, sólo la imaginación es más importante que el conocimiento." -Albert Einstein.*  
 
 ---
 
-✨ Si querés charlar sobre arquitectura, accesibilidad o invitarme un café virtual → ¡escribime! 🍻
+✨ Si querés charlar sobre arquitectura, accesibilidad o invitarme un café virtual → ¡escribeme! 🍻
