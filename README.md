@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Banner Luciano Carrasco" />
+  <img src="./bannerGH.svg" alt="Banner Luciano Carrasco" />
 </p>
 
 # 👋 ¡Hola! Soy Luciano Carrasco
